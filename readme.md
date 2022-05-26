@@ -1,2 +1,2 @@
 # New project
-test project
+Our test project
